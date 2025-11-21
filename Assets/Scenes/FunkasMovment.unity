@@ -5630,7 +5630,7 @@ MonoBehaviour:
   stopSpeed: 2
   sprintRequiresForward: 1
   jumpForce: 8
-  autoBunnyHop: 0
+  autoBunnyHop: 1
   jumpCooldownDuration: 0.1
   hoverEnabled: 1
   hoverForce: 700
