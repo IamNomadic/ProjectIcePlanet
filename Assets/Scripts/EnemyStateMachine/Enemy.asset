@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f13c1e8097599c34b8287b2f2b1d5206, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  enemyName: SmallYeti
+  drops: []
+  enemyCorpse: []
+  hasAnimation: 0
+  enemyDMG: 1
+  enemyHP: 1
+  enemySpeed: 1
+  enemyAcceleration: 1
+  EnemyDrag: 1
+  hurtNoise: {fileID: 0}
+  deathNoise: {fileID: 0}
+  attackNoise: {fileID: 0}
+  allowedBiomes: []
